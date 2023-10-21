@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 2rem;
+  }
+  
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .space{
+    padding-left: 22%;
+  }
+  section {
+    margin-bottom: 2rem;
+  }
+  img{
+    position: absolute;
+    background-origin: padding-box;
+    border-radius: 100%;
+    border: dotted 1px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    background-color: blueviolet;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+  
+  footer {
+    background-color: #ccc;
+    padding: 2rem;
+  }
+  
